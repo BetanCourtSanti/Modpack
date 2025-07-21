@@ -607,3 +607,47 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jul2025 21:40:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santik24 has made the advancement [Knowledge of Death]
 [21Jul2025 21:40:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santik24 has reached the goal [Here They Come]
 [21Jul2025 21:40:57.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=281, y=-42, z=-249}
+[21Jul2025 21:43:29.306] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=333, y=22, z=-258}
+[21Jul2025 21:44:07.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38638ms or 772 ticks behind
+[21Jul2025 21:44:07.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santik24 lost connection: Disconnected
+[21Jul2025 21:44:07.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santik24 left the game
+[21Jul2025 21:44:08.006] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santik24
+[21Jul2025 21:44:08.009] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [Santik24] disconnected.
+[21Jul2025 21:44:56.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@119f08d4
+[21Jul2025 21:44:56.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santik24[/172.27.254.114:51055] logged in with entity id 4340 at (156.67024461967387, 71.25220334025373, -81.76880751526433)
+[21Jul2025 21:44:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santik24 joined the game
+[21Jul2025 21:44:56.246] [Server thread/INFO] [Jade/]: Syncing config to Santik24 (f9539103-a4b3-3e9c-af02-784279252d9c)
+[21Jul2025 21:44:56.275] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[21Jul2025 21:44:56.277] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [Santik24] joined.
+[21Jul2025 21:44:56.508] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santik24 (18)
+[21Jul2025 21:44:56.509] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santik24
+[21Jul2025 21:44:58.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f9539103-a4b3-3e9c-af02-784279252d9c
+[21Jul2025 21:44:59.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f9539103-a4b3-3e9c-af02-784279252d9c
+[21Jul2025 21:44:59.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santik24 (f9539103-a4b3-3e9c-af02-784279252d9c) successfully connected to voice chat
+[21Jul2025 21:45:16.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-60, y=-22, z=-268}
+[21Jul2025 21:45:19.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-14, y=-32, z=-323}
+[21Jul2025 21:45:19.597] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-39, y=-52, z=-329}
+[21Jul2025 21:46:22.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santik24 has made the advancement [Acquire Hardware]
+[21Jul2025 21:48:49.922] [Worker-Main-2/WARN] [ModernFix/]: The namespace graveyard contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Jul2025 21:51:25.150] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=361, y=-41, z=-277}
+[21Jul2025 21:51:39.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=391, y=-27, z=-28}
+[21Jul2025 21:51:39.946] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=394, y=-42, z=-37}
+[21Jul2025 21:51:43.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=406, y=19, z=-26}
+[21Jul2025 21:51:48.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=420, y=31, z=39}
+[21Jul2025 21:51:54.242] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=445, y=37, z=-56}
+[21Jul2025 21:51:54.245] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=433, y=36, z=-33}
+[21Jul2025 21:51:54.544] [Worker-Main-1/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Jul2025 21:52:13.288] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=472, y=-36, z=-22}
+[21Jul2025 21:52:57.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=149, y=-29, z=-373}
+[21Jul2025 21:52:57.703] [DH-PriorityTaskPicker Thread[2]/WARN] [ModernFix/]: The namespace anthropology_items__structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Jul2025 21:53:04.097] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=516, y=-6, z=-190}
+[21Jul2025 21:53:06.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santik24 has made the advancement [Sweet Dreams]
+[21Jul2025 21:53:12.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santik24> w1
+[21Jul2025 21:53:18.625] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=360, y=-11, z=-401}
+[21Jul2025 21:53:19.566] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=209, y=-42, z=-403}
+[21Jul2025 21:53:33.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=180, y=-43, z=-417}
+[21Jul2025 21:53:49.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=395, y=13, z=-455}
+[21Jul2025 21:53:50.271] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=293, y=-38, z=-454}
+[21Jul2025 21:53:55.903] [Worker-Main-17/WARN] [ModernFix/]: The namespace paraglider contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Jul2025 21:53:55.912] [Worker-Main-17/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Jul2025 21:53:58.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
